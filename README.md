@@ -1,5 +1,5 @@
 # Social Media Analysis for Nexus Consulting
-![social media img](Social_Media_Analysis.jpg)
+![social media img](Social Media Analysis.jpg)
 
 ## Introduction
 Prepared for: Nexus Consulting
