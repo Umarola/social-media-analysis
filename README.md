@@ -1,5 +1,5 @@
 # Social Media Analysis for Nexus Consulting
-![social media img](Social_Media_Analysis.jpg)
+![social media img](SM_Dashboard.jpg)
 
 ## Introduction
 Prepared for: Nexus Consulting
@@ -36,7 +36,7 @@ Overall
 • There is a balance of engagements across all content types. 
 
 ## Dashboard
-![dashboard](Social_Media_Analysis.png)
+![dashboard](SM_Dasboard.png)
 
 ## Key Findings
 • The performance of the metrics across all platforms is majorly influenced by the number of posts made. This simply means that as posts reduces, metric performance tends to reduce too.
